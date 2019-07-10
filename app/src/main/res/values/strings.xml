@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quizer app</string>
+    <string name="hint_login">Enter login</string>
+    <string name="hint_password">Enter password</string>
+    <string name="btn_download_title">Загрузить</string>
+    <string name="btn_show_title">Показать</string>
+    <string name="btn_clear_title">Очистить базу данных</string>
+    <string name="btn_back_title">Назад</string>
+    <string name="toast_download_success">Данные получены</string>
+    <string name="toast_download_fail">Неверные учетные данные</string>
+    <string name="toast_download_error">Ошибка</string>
+    <string name="toast_clear">Данные удалены</string>
+    <string name="no_data">Нет данных</string>
+</resources>
